@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**TheMicrosoftMan/TheMicrosoftMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Yurii and I like to build *\*things\**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│   Yurii Zelenko / @TheMicrosoftMan                         │
+│                                                            │
+│       Work: Full stack developer @Lampa                    │
+│     GitHub: https://github.com/TheMicrosoftMan             │
+│    Twitter: https://twitter.com/TheMicrosoftMan            │
+│   LinkedIn: https://linkedin.com/in/yurii-z-5b37a618a/     │
+│                                                            │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
